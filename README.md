@@ -4,7 +4,12 @@ I learned Python and machine learning mostly following instrtuctions and YouTube
 
 ## Neural network - Pytorch
 
-Fully connected neural network with feed forward and using MNIST data set.
++ Dataset: MNIST
++ Modules: Matplotlib
++ [Code in Jupiter Notebook](https://github.com/nirajan-mandal/Machine_Learning/blob/main/3_MNIST.ipynb)
+
+![alt text](https://github.com/nirajan-mandal/Machine_Learning/blob/main/nine.png "Nine")
+
 
 ## Convolutional neural network - Pytorch
 
