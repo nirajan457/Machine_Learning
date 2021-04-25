@@ -1,6 +1,6 @@
 # Machine Learning
 
-I learned Python and machine learning mostly following instrtuctions and YouTube videos by  [Harrison Kinsley](https://pythonprogramming.net/). Below are some of the project highlights.
+I learned Python and machine learning mostly following instructions and YouTube videos by  [Harrison Kinsley](https://pythonprogramming.net/). Below are some of the project highlights.
 
 ## Neural network - Pytorch
 
@@ -16,7 +16,7 @@ I learned Python and machine learning mostly following instrtuctions and YouTube
 + Dataset: Kaggle cats and dogs
 + Modules: OpenCV, NumPy, Matplotlib
 + [Code in Jupiter Notebook](https://github.com/nirajan-mandal/Machine_Learning/blob/main/5_cats_dogs.ipynb)
-+ Results from my slow CPU
++ Results from my "slow" CPU
 
 Batch, Epoch | Training time (min) | Iteration/s | Loss | Accuracy
 --- | --- | --- | --- | ---
