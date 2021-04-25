@@ -16,8 +16,7 @@ I learned Python and machine learning mostly following instrtuctions and YouTube
 + Dataset: Kaggle cats and dogs
 + Modules: OpenCV, NumPy, Matplotlib
 + [Code in Jupiter Notebook](https://github.com/nirajan-mandal/Machine_Learning/blob/main/5_cats_dogs.ipynb)
-
-+Results on my CPU
++ Results from my slow CPU
 
 Batch, Epoch | Training time (min) | Iteration/s | Loss | Accuracy
 --- | --- | --- | --- | ---
