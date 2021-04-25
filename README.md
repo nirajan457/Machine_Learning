@@ -36,7 +36,7 @@ Learning to use TensorFlow.js using the cars data set. The results are hosted [h
 
 This project was implemented learning tutorial from [Google Codelab](https://codelabs.developers.google.com/codelabs/tfjs-training-regression/index.html#0)
 
-![alt text](https://github.com/nirajan-mandal/Machine_Learning/blob/main/Predictions_2d_data/prediction.png "Prediction")
+![alt text](https://github.com/nirajan-mandal/Car_DataSet/blob/main/prediction.png "Prediction")
 
 
 
