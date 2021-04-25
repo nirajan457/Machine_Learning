@@ -30,5 +30,13 @@ Cat | Dog
 ![alt text](https://github.com/nirajan-mandal/Machine_Learning/blob/main/cat_2.png "Cat") | ![alt text](https://github.com/nirajan-mandal/Machine_Learning/blob/main/dog_1.png "Dog") 
 
 
+## Cars data set - TensorFlow.js
+
+Learning to use TensorFlow.js using tutorial from [Google Codelab](https://codelabs.developers.google.com/codelabs/tfjs-training-regression/index.html#0)
+
+![alt text](https://github.com/nirajan-mandal/Machine_Learning/blob/main/Predictions_2d_data/prediction.png "Prediction")
+
+
+
 
 
