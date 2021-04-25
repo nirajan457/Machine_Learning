@@ -9,7 +9,7 @@ Fully connected neural network with feed forward and using MNIST data set.
 ## Convolutional neural network - Pytorch
 
 + Dataset: Kaggle cats and dogs
-+ Modules: OpenCV, numPy
++ Modules: OpenCV, NumPy, Matplotlib
 + [Code in Jupiter Notebook](https://github.com/nirajan-mandal/Machine_Learning/blob/main/5_cats_dogs.ipynb)
 
 Cat | Dog 
