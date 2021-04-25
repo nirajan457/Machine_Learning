@@ -17,6 +17,13 @@ I learned Python and machine learning mostly following instrtuctions and YouTube
 + Modules: OpenCV, NumPy, Matplotlib
 + [Code in Jupiter Notebook](https://github.com/nirajan-mandal/Machine_Learning/blob/main/5_cats_dogs.ipynb)
 
++Results on my CPU
+
+Markdown | Less | Pretty
+--- | --- | ---
+1 | 2 | 3
+
+[//]: # (Some image form the code)
 Cat | Dog 
 --- | --- 
 ![alt text](https://github.com/nirajan-mandal/Machine_Learning/blob/main/cat_2.png "Cat") | ![alt text](https://github.com/nirajan-mandal/Machine_Learning/blob/main/dog_1.png "Dog") 
