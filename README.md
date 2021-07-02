@@ -16,6 +16,8 @@ I learned Python and machine learning mostly following instructions and YouTube 
 + Dataset: Kaggle cats and dogs
 + Modules: OpenCV, NumPy, Matplotlib
 + [Code in Jupiter Notebook](https://github.com/nirajan-mandal/Machine_Learning/blob/main/5_cats_dogs.ipynb)
++ [Code from Google Colab Notebook](https://github.com/nirajan-mandal/Machine_Learning/blob/main/Copy%20of%20l05c02_dogs_vs_cats_with_augmentation.ipynb). This was a lesson from UDACITY's course **Intro to TensorFlow for Deep Learning** and uses Google's cloud GPU.
+
 + Results from my "slow" CPU
 
 Batch, Epoch | Training time (min) | Iteration/s | Loss | Accuracy
