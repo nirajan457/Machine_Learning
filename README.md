@@ -27,6 +27,12 @@ Batch, Epoch | Training time (min) | Iteration/s | Loss | Accuracy
 100, 3 | 60 (20min/Epoch) | 6 | 0.109 | 0.75
 100, 15 | 300 (20min/Epoch) | 5 | 0.024 | 0.76
 
++ GPU with Keras on Google Colab
+
+Batch, Epoch | Training time (min) | Iteration/s | Loss | Accuracy
+--- | --- | --- | --- | ---
+100, 25 | 7min (16sec/Epoch) | NA | NA | 0.73
+
 Cat | Dog 
 --- | --- 
 ![alt text](https://github.com/nirajan-mandal/Machine_Learning/blob/main/cat_2.png "Cat") | ![alt text](https://github.com/nirajan-mandal/Machine_Learning/blob/main/dog_1.png "Dog") 
